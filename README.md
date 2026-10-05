@@ -77,7 +77,7 @@ I'm a Python Developer focused on building practical and user-friendly applicati
 
 - #### Spicy Hunt
 
-  <img src="./images/project-1.png" width="400" align="right" />
+  <img src="./images/project-2.png" width="400" align="right" />
 
   &nbsp;&nbsp;&nbsp;&nbsp;A responsive restaurant website designed to provide a clean, modern and
   user-friendly experience for browsing food items and exploring restaurant
